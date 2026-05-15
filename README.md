@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**jalonsea/jalonsea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Alonso Esquivel · Building real things. In Costa Rica. At 19.
 
-Here are some ideas to get you started:
+I'm a cybersecurity student at ULACIT and a founder running multiple ventures simultaneously. I build with code, ship it, and learn by doing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+JalonTekh · My technical consultancy. Founded 2025.
+
+Web infrastructure, security solutions, and custom digital systems for clients in Costa Rica and the United States. I scope it, build it, and own it end to end.
+
+Secure web infrastructure (HTTPS/TLS, DNS hardening, access control)
+Cloud-hosted Linux servers with monitoring and incident response
+Security assessments and secure-by-design architecture
+E-commerce platforms, business portals, and automation workflows
+
+→ jalontekh.com
+
+
+What Else I'm Working On
+
+Big things. More soon.
+
+TiquiciaVerde · EsquiHogar
+
+Background
+
+📚 Bachillerato en Ciberseguridad - ULACIT, Costa Rica
+
+🇬🇧 Cambridge C1 English certification
+
+🔐 Interested in the intersection of security, infrastructure, and product
+
+🌍 Building for Latin American and U.S. markets
+
+The work speaks for itself.
