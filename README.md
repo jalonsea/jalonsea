@@ -3,7 +3,9 @@ I'm a cybersecurity student at ULACIT and a founder running multiple projects si
 
 CEO of:
 
-JalonTekh · My technical consultancy, Founded 2025 · jalontekh.com
+JalonTekh · My technical consultancy, Founded 2025
+
+jalontekh.com
 
 Web infrastructure, security solutions, and custom digital systems for clients in Latin America and the United States.
 
